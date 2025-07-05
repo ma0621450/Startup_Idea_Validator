@@ -31,7 +31,7 @@ export const ResultCard = ({
     }}>
       <SheetContent
         side="bottom"
-        className="h-[100vh] w-full overflow-y-auto rounded-t-xl border-t bg-background px-6 py-8"
+        className="h-[100dvh] w-full overflow-y-auto rounded-t-xl border-t bg-background px-6 py-8"
       >
         <SheetHeader className="mb-6">
           <SheetTitle className="text-2xl font-bold">AI Validation Result</SheetTitle>
